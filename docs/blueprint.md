@@ -1,4 +1,4 @@
-# **App Name**: Creative Hub
+# **App Name**: Luca Müller
 
 ## Core Features:
 
