@@ -1,3 +1,58 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "game1",
+      "description": "A pixel art game scene.",
+      "imageUrl": "https://picsum.photos/seed/game1/600/400",
+      "imageHint": "pixel art game"
+    },
+    {
+      "id": "game2",
+      "description": "A futuristic spaceship cockpit view of a nebula.",
+      "imageUrl": "https://images.unsplash.com/photo-1710617735946-cca4c22455f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzcGFjZXNoaXAlMjBjb2NrcGl0fGVufDB8fHx8MTc1OTczMzcwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "spaceship cockpit"
+    },
+    {
+      "id": "game3",
+      "description": "A mystical forest with glowing mushrooms.",
+      "imageUrl": "https://picsum.photos/seed/game3/600/400",
+      "imageHint": "mystical forest"
+    },
+    {
+      "id": "website1",
+      "description": "A clean and modern website layout.",
+      "imageUrl": "https://images.unsplash.com/photo-1748609278627-4b0e483b9b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtb2Rlcm4lMjB3ZWJzaXRlfGVufDB8fHx8MTc1OTY5OTAyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern website"
+    },
+    {
+      "id": "website2",
+      "description": "An online store product page.",
+      "imageUrl": "https://images.unsplash.com/photo-1580828343064-fde4fc206bc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxvbmxpbmUlMjBzdG9yZXxlbnwwfHx8fDE3NTk3NzQ4MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "online store"
+    },
+    {
+      "id": "website3",
+      "description": "A dashboard with charts and graphs.",
+      "imageUrl": "https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhbmFseXRpY3MlMjBkYXNoYm9hcmR8ZW58MHx8fHwxNzU5NzU2OTM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "analytics dashboard"
+    },
+    {
+      "id": "gen1",
+      "description": "A neon-lit cyberpunk city alley.",
+      "imageUrl": "https://picsum.photos/seed/gen1/600/400",
+      "imageHint": "cyberpunk alley"
+    },
+    {
+      "id": "gen2",
+      "description": "A stone golem in a fantasy setting.",
+      "imageUrl": "https://picsum.photos/seed/gen2/600/400",
+      "imageHint": "stone golem"
+    },
+    {
+      "id": "gen3",
+      "description": "An alien planet landscape.",
+      "imageUrl": "https://images.unsplash.com/photo-1611318285008-ff902cd59e5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhbGllbiUyMGxhbmRzY2FwZXxlbnwwfHx8fDE3NTk3Mzc4MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "alien landscape"
+    }
+  ]
 }
